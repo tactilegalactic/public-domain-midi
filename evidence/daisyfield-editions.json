@@ -1,0 +1,246 @@
+{
+  "provider": "Daisyfield Music Archive / Tom Potter",
+  "reviewedAt": "2026-09-09T11:09:08+00:00",
+  "licensePageUrl": "https://www.daisyfield.com/music/htm/-genres/japan.htm",
+  "licenseDeclaration": "I donate to the public domain my transcriptions of these songs.",
+  "licenseScope": "The Japanese music index explicitly describes the Finale-to-MIDI exports and donates the transcriptions; each selected linked score also explicitly bears Potter’s public-domain donation. This grant is not extended to other Daisyfield sections.",
+  "indexSnapshot": {
+    "url": "https://www.daisyfield.com/music/htm/-genres/japan.htm",
+    "file": "japan.htm",
+    "sha256": "847eba41ed8c483a39baacedf6fca5f876f93efa8d872664c66f7a08dc05db40",
+    "bytes": 47783
+  },
+  "arrangementHistory": {
+    "url": "https://www.daisyfield.com/music/htm/-colls/ng.htm",
+    "file": "dittrich-history.html",
+    "bytes": 22177,
+    "sha256": "2fc08ee68df14e1b1422301cb41a9121c20ee6c36a2b53f7bdd0ebed65ce2b0f"
+  },
+  "editions": [
+    {
+      "id": "dittrich-dokkoisho",
+      "title": "Dokkoisho",
+      "sourceUrl": "https://www.daisyfield.com/music/htm/japan/Dokkoisho.htm",
+      "sourceEdition": "Rudolf Dittrich, Nippon Gakufu, Breitkopf & Härtel, Leipzig, 1895.",
+      "indexVersion": "2007-03-18",
+      "midi": {
+        "url": "https://www.daisyfield.com/music/jpm/mid/NGT04-Dokkoisho.mid",
+        "file": "NGT04-Dokkoisho.mid",
+        "sha256": "4f93ee69e08fcaa54190c960ed266d87fa3d5b15509830d641958783697aaecc",
+        "bytes": 4252
+      },
+      "score": {
+        "url": "https://www.daisyfield.com/music/jpm/pdf/NGT04-Dokkoisho.pdf",
+        "file": "NGT04-Dokkoisho.pdf",
+        "sha256": "8d9d763f1b4694e2f924e5c9a515613d833a7b1385066dea8d2e5aceb3c25622",
+        "bytes": 38384
+      },
+      "scoreDonationNotice": "Transcription donated to public domain by Tom Potter, 2007",
+      "firstScorePageVisuallyReviewed": true,
+      "notes": 470,
+      "midiTracks": 2,
+      "embeddedLyrics": false,
+      "sourceEditionNote": null
+    },
+    {
+      "id": "dittrich-ha-uta",
+      "title": "Ha-Uta",
+      "sourceUrl": "https://www.daisyfield.com/music/htm/japan/Ha-Uta.htm",
+      "sourceEdition": "Rudolf Dittrich, Nippon Gakufu, Breitkopf & Härtel, Leipzig, 1895.",
+      "indexVersion": "2006-09-24",
+      "midi": {
+        "url": "https://www.daisyfield.com/music/jpm/mid/NGT14-Ha-Uta.mid",
+        "file": "NGT14-Ha-Uta.mid",
+        "sha256": "d17984664a310b3f3ddc615c0eba5af815a294e1768fcfc3245e548c2570958c",
+        "bytes": 5979
+      },
+      "score": {
+        "url": "https://www.daisyfield.com/music/jpm/pdf/NGT14-Ha-Uta.pdf",
+        "file": "NGT14-Ha-Uta.pdf",
+        "sha256": "67637ca8ab78190f7dcde13f78c2915228abe1e517f19bae05acd92f735cfba8",
+        "bytes": 64653
+      },
+      "scoreDonationNotice": "Transcription donated to the public domain, 2006 by Tom Potter",
+      "firstScorePageVisuallyReviewed": true,
+      "notes": 642,
+      "midiTracks": 2,
+      "embeddedLyrics": false,
+      "sourceEditionNote": null
+    },
+    {
+      "id": "dittrich-jizuki-uta",
+      "title": "Jizuki-Uta — Workmen’s Song",
+      "sourceUrl": "https://www.daisyfield.com/music/htm/japan/Jizuki-Uta.htm",
+      "sourceEdition": "Rudolf Dittrich, Nippon Gakufu, Breitkopf & Härtel, Leipzig, 1894.",
+      "indexVersion": "2007-01-31",
+      "midi": {
+        "url": "https://www.daisyfield.com/music/jpm/mid/NGS01-Jizuki-Uta-Piano.mid",
+        "file": "NGS01-Jizuki-Uta-Piano.mid",
+        "sha256": "5dd6eddd6ce4f725a241797a482cb6b39aecde830a1e077bfb8be1072cfa51a8",
+        "bytes": 5817
+      },
+      "score": {
+        "url": "https://www.daisyfield.com/music/jpm/pdf/NGS01-Jizuki-Uta-Piano.pdf",
+        "file": "NGS01-Jizuki-Uta-Piano.pdf",
+        "sha256": "4a82518ef05a4a8a89436ce6af30c4998093d10a4b8668bb36af90df035a6adb",
+        "bytes": 328985
+      },
+      "scoreDonationNotice": "Transcription donated to the public domain, 2006 by Tom Potter",
+      "firstScorePageVisuallyReviewed": true,
+      "notes": 538,
+      "midiTracks": 2,
+      "embeddedLyrics": false,
+      "sourceEditionNote": null
+    },
+    {
+      "id": "dittrich-koito-utatote",
+      "title": "Koito Utatote — Come Here to Sado",
+      "sourceUrl": "https://www.daisyfield.com/music/htm/japan/Koito-Utatote.htm",
+      "sourceEdition": "Rudolf Dittrich, Nippon Gakufu, Breitkopf & Härtel, Leipzig, 1895.",
+      "indexVersion": "2008-07-14",
+      "midi": {
+        "url": "https://www.daisyfield.com/music/jpm/mid/NGT02-Koito-Utatote.mid",
+        "file": "NGT02-Koito-Utatote.mid",
+        "sha256": "aa186948ad7f6d55d8b4e698f2ff9734e9697c937f3bbd0db88171ec3bc70267",
+        "bytes": 5150
+      },
+      "score": {
+        "url": "https://www.daisyfield.com/music/jpm/pdf/NGT02-Koito-Utatote.pdf",
+        "file": "NGT02-Koito-Utatote.pdf",
+        "sha256": "a0c6dd127f73f1c76b20ed1932e8d93150fe8ba5e0bce9d52f5e360c037668f4",
+        "bytes": 135001
+      },
+      "scoreDonationNotice": "Transcription donated to the public domain 2008 Tom Potter",
+      "firstScorePageVisuallyReviewed": true,
+      "notes": 476,
+      "midiTracks": 2,
+      "embeddedLyrics": false,
+      "sourceEditionNote": null
+    },
+    {
+      "id": "dittrich-kon-in",
+      "title": "Kon-In No Uta — Wedding Song",
+      "sourceUrl": "https://www.daisyfield.com/music/htm/japan/Kon-In-No-Uta.htm",
+      "sourceEdition": "Rudolf Dittrich, Nippon Gakufu, Breitkopf & Härtel, Leipzig, 1894.",
+      "indexVersion": "2006-11-14",
+      "midi": {
+        "url": "https://www.daisyfield.com/music/jpm/mid/NGS08-Kon-In-No-Uta.mid",
+        "file": "NGS08-Kon-In-No-Uta.mid",
+        "sha256": "a530b596797393a85bd5a3cc19b5374a38063c84f03524ce84666d7288c9753f",
+        "bytes": 6755
+      },
+      "score": {
+        "url": "https://www.daisyfield.com/music/jpm/pdf/NGS08-Kon-In-No.Uta.pdf",
+        "file": "NGS08-Kon-In-No.Uta.pdf",
+        "sha256": "b3bf42778ff1a87dc53575a9e92bf6c365be6dd520d8856cc9852f3239df436d",
+        "bytes": 1819433
+      },
+      "scoreDonationNotice": "Transcription donated to the public domain, 2006 by Tom Potter",
+      "firstScorePageVisuallyReviewed": true,
+      "notes": 745,
+      "midiTracks": 2,
+      "embeddedLyrics": false,
+      "sourceEditionNote": "The transcription repeats Sakura’s pp.4–5 in its source footer. The Kon-In No Uta title, 1894 collection, and piano arrangement are independently identified by the linked work page; that inconsistent page range is not adopted."
+    },
+    {
+      "id": "dittrich-matsuri-bayashi",
+      "title": "Matsuri-Bayashi — Festival Song",
+      "sourceUrl": "https://www.daisyfield.com/music/htm/japan/Matsuri-Bayashi.htm",
+      "sourceEdition": "Rudolf Dittrich, Nippon Gakufu, Breitkopf & Härtel, Leipzig, 1894.",
+      "indexVersion": "2007-01-31",
+      "midi": {
+        "url": "https://www.daisyfield.com/music/jpm/mid/NGS02-Matsuri-Bayashi.mid",
+        "file": "NGS02-Matsuri-Bayashi.mid",
+        "sha256": "a939fdd46cc92d9ce8bf14fac3cd7952423bbfb396515cc2e22d12cd30e36f44",
+        "bytes": 4995
+      },
+      "score": {
+        "url": "https://www.daisyfield.com/music/jpm/pdf/NGS02-Matsuri-Bayashi.pdf",
+        "file": "NGS02-Matsuri-Bayashi.pdf",
+        "sha256": "83823e769a6eeb1f8b7102cf4916a070a9c8610f1d58041ee4bc9fdf2358416e",
+        "bytes": 49486
+      },
+      "scoreDonationNotice": "Transcription donated to public domain by Tom Potter, 2007",
+      "firstScorePageVisuallyReviewed": true,
+      "notes": 522,
+      "midiTracks": 2,
+      "embeddedLyrics": false,
+      "sourceEditionNote": null
+    },
+    {
+      "id": "dittrich-sakura",
+      "title": "Sakura — Cherry Blossoms",
+      "sourceUrl": "https://www.daisyfield.com/music/htm/japan/Sakura.htm",
+      "sourceEdition": "Rudolf Dittrich, Nippon Gakufu, Breitkopf & Härtel, Leipzig, 1894.",
+      "indexVersion": "2006-09-24",
+      "midi": {
+        "url": "https://www.daisyfield.com/music/jpm/mid/NGS04-Sakura-Piano.mid",
+        "file": "NGS04-Sakura-Piano.mid",
+        "sha256": "ece62568ad07c1c05f3775599bb0498aee4199d81c9897f010ff1065af457882",
+        "bytes": 7245
+      },
+      "score": {
+        "url": "https://www.daisyfield.com/music/jpm/pdf/NGS04-Sakura-Piano.pdf",
+        "file": "NGS04-Sakura-Piano.pdf",
+        "sha256": "162a465b65c77b961e1b20ab5f8c48f6aff1e01cc233f42ce0219e8a8ac2cb32",
+        "bytes": 54600
+      },
+      "scoreDonationNotice": "Transcription donated to the public domain, 2006 by Tom Potter",
+      "firstScorePageVisuallyReviewed": true,
+      "notes": 694,
+      "midiTracks": 2,
+      "embeddedLyrics": false,
+      "sourceEditionNote": null
+    },
+    {
+      "id": "kimigayo-wier-potter",
+      "title": "Kimigayo — Japan’s National Anthem",
+      "sourceUrl": "https://www.daisyfield.com/music/htm/japan/Kimigayo.htm",
+      "sourceEdition": "Albert Ernest Wier, The Book of a Thousand Songs, Carl Fischer, New York, 1918, p.235.",
+      "indexVersion": "2006-09-24",
+      "midi": {
+        "url": "https://www.daisyfield.com/music/jpm/mid/ZMS01-Kimigayo.mid",
+        "file": "ZMS01-Kimigayo.mid",
+        "sha256": "65f12c19ad18e02840df0547c0fd168f25d9845bb67d41f890820df8f3fa6b8a",
+        "bytes": 1401
+      },
+      "score": {
+        "url": "https://www.daisyfield.com/music/jpm/pdf/ZMS01-Kimigayo.pdf",
+        "file": "ZMS01-Kimigayo.pdf",
+        "sha256": "c61b99544ea29bea468cf571b446250cd08421d4e0f97150168e55703b1f6365",
+        "bytes": 21030
+      },
+      "scoreDonationNotice": "Transcription donated to the public domain, 2006 by Tom Potter",
+      "firstScorePageVisuallyReviewed": true,
+      "notes": 142,
+      "midiTracks": 2,
+      "embeddedLyrics": false,
+      "sourceEditionNote": null
+    },
+    {
+      "id": "kazoe-uta-potter",
+      "title": "Kazoe-Uta — Counting Song",
+      "sourceUrl": "https://www.daisyfield.com/music/htm/-genres/japan.htm",
+      "sourceEdition": "Nagai and Obata, Seiyo gakufu Nihon zokkyokushu, Miki Shoten, Osaka, 1895.",
+      "indexVersion": "2008-06-09",
+      "midi": {
+        "url": "https://www.daisyfield.com/music/jpm/mid/K95004-Kazoe-Uta.mid",
+        "file": "K95004-Kazoe-Uta.mid",
+        "sha256": "f5e4305f8620b8b1dd39e8e3bb06c687efcf4affe81de307465510538fe55676",
+        "bytes": 966
+      },
+      "score": {
+        "url": "https://www.daisyfield.com/music/jpm/pdf/K95004-Kazoe-Uta.pdf",
+        "file": "K95004-Kazoe-Uta.pdf",
+        "sha256": "8560f4f945c939f554943e000f650eae1a86da28812291f26da72fbb86fd5d75",
+        "bytes": 21873
+      },
+      "scoreDonationNotice": "Transcription donated to the public domain, 2008 by Tom Potter",
+      "firstScorePageVisuallyReviewed": true,
+      "notes": 92,
+      "midiTracks": 2,
+      "embeddedLyrics": false,
+      "sourceEditionNote": null
+    }
+  ]
+}

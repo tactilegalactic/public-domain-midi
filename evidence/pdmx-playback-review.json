@@ -1,0 +1,34 @@
+{
+  "reviewedAt": "2026-09-09T09:44:43+00:00",
+  "scope": "Content spot checks prompted by low MIDI-to-supplemental-data note-count ratios. The unchanged MuseScore MIDI is the playback source; the separate MusicRender data is supplemental archive evidence, not a reference audio performance.",
+  "method": "Compare ordered eight-pitch phrases within corresponding parts, independent of timing, and inspect the final twelve note pitches in every part.",
+  "limitations": "Phrase matches can recur and do not prove exact note-for-note fidelity, every inner passage, or all written repeats. Supplemental MusicRender timing and note counts differ from MuseScore playback and cannot alone establish truncation.",
+  "editions": [
+    {
+      "id": "mozart-jupiter-openscore",
+      "midiSha256": "79a397fe62aa339e3ccdce8fd7d6d7f7532adddc6bb812da979db1c60eff66ec",
+      "sourceUrl": "https://musescore.com/user/13033246/scores/4861738",
+      "supplementalDataSha256": "dbe9b5e59476461345222c96628a0c9c7ee89c04c363ace751ccfd05b5c79588",
+      "midiNotes": 59063,
+      "supplementalNotes": 82732,
+      "tracksChecked": 17,
+      "allTrackFinalTwelvePitchesMatch": true,
+      "sourceBarLabels": 923,
+      "barLabelsWithAnEightNotePitchPhraseInAtLeastOneMidiPart": 923,
+      "unmatchedBarLabels": []
+    },
+    {
+      "id": "bach-brandenburg-3-openscore",
+      "midiSha256": "2e553513931d9e22fffbb7149cacd591babe11b32aa177805812a8f18e369ce8",
+      "sourceUrl": "https://musescore.com/openscore-transcriptions/scores/4927174",
+      "supplementalDataSha256": "4b082097055a728cfb95a4aa2cdda09ef67f8aebc33142f84b2c608f811ce41a",
+      "midiNotes": 27388,
+      "supplementalNotes": 39820,
+      "tracksChecked": 11,
+      "allTrackFinalTwelvePitchesMatch": true,
+      "sourceBarLabels": 186,
+      "barLabelsWithAnEightNotePitchPhraseInAtLeastOneMidiPart": 186,
+      "unmatchedBarLabels": []
+    }
+  ]
+}

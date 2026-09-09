@@ -1,0 +1,94 @@
+{
+  "provider": "Christian Classics Ethereal Hymnary",
+  "reviewedAt": "2026-09-09T09:12:48+00:00",
+  "policyUrl": "https://www.ccel.org/cceh/cceh_cpr.htm",
+  "policyPageSha256": "867df741349c56072501e84a9d0eaece237aff42535d455c8b49b2bedd388279",
+  "policyPageRetrievedAt": "2026-09-09T09:10:09+00:00",
+  "scope": "CCEH explicitly includes MIDI files in its unrestricted-use policy, and separately distinguishes composition, arrangement, score, and performance rights. Each accepted file also embeds a public-domain declaration.",
+  "editions": [
+    {
+      "id": "glory-glory-cceh",
+      "sourceUrl": "https://www.ccel.org/cceh/0005/x000510.htm",
+      "sourcePageSha256": "989cb8842f98b47df8452f65052e368ce0925ce6332de3249f253bac4478d4bf",
+      "sourcePageRetrievedAt": "2026-09-09T09:10:09+00:00",
+      "downloadUrl": "https://www.ccel.org/cceh/0005/000510a.mid",
+      "sha256": "f6303c93dcd659075761e4958cf3cbe5b1289f7a392a7a54ac8c98f6b1b2493e",
+      "bytes": 2935,
+      "embeddedCopyright": [
+        "Public  domain"
+      ],
+      "notes": 324,
+      "tracks": 3,
+      "sourceEditionReview": "Georgia identifies Glory, Glory as its fight song and the Battle Hymn tune as its melody. This is the traditional hymn setting, not Hugh Hodgson’s 1915 university arrangement or Jeff Simmons’s 1987 trumpet solo.",
+      "categorySourceUrl": "https://georgiadogs.com/sports/2017/6/16/traditions",
+      "companionScore": {
+        "url": "https://www.ccel.org/cceh/0005/000510a.pdf",
+        "sha256": "cf56f9667a724a21a5fbfe2371cade54336aa8ae6f1b70e72131bf686d0fb6d1",
+        "bytes": 34334
+      }
+    },
+    {
+      "id": "all-through-night-cceh",
+      "sourceUrl": "https://www.ccel.org/cceh/0005/x000518.htm",
+      "sourcePageSha256": "e4c49c96658d293db046082130629e37cbae03c0ee8e1c7444738c507002be08",
+      "sourcePageRetrievedAt": "2026-09-09T09:10:10+00:00",
+      "downloadUrl": "https://www.ccel.org/cceh/0005/000518a.mid",
+      "sha256": "af9096089810523059df5c2761d66c42a4be316c0d4f9cab42497474c8b52c87",
+      "bytes": 2053,
+      "embeddedCopyright": [
+        "Public  domain"
+      ],
+      "notes": 215,
+      "tracks": 3,
+      "sourceEditionReview": "The source names Emerson’s 1906 harmony. University of Tennessee catalogs the Welsh tune among children’s songs. Emerson lived 1820–1915, as recorded by UNT Digital Library: https://digital.library.unt.edu/ark:/67531/metadc1213719/ .",
+      "categorySourceUrl": "https://databases.lib.utk.edu/songdb/songdb.php?title=ALL+THROUGH+THE+NIGHT&word=0",
+      "companionScore": {
+        "url": "https://www.ccel.org/cceh/0005/000518a.pdf",
+        "sha256": "ae5bd3b82d0d8897e46c683034e0041d63e3fe619f10f6e02d1101251e5af6ab",
+        "bytes": 22722
+      }
+    },
+    {
+      "id": "german-anthem-cceh",
+      "sourceUrl": "https://www.ccel.org/cceh/0001/x000148.htm",
+      "sourcePageSha256": "6a4c92592799b05e2312d0cd5cf05c96c8a89f0797e0058ff187aad5984b9e34",
+      "sourcePageRetrievedAt": "2026-09-09T09:10:11+00:00",
+      "downloadUrl": "https://www.ccel.org/cceh/0001/000148a.mid",
+      "sha256": "915bcea4c53806520173dbda5b4a286acdf0d1f91d57d45ba9ca1493cd00261e",
+      "bytes": 2428,
+      "embeddedCopyright": [
+        "public domain"
+      ],
+      "notes": 264,
+      "tracks": 3,
+      "sourceEditionReview": "CCEH names Haydn’s 1797 Austrian Hymn. The German government identifies Haydn’s melody as the national anthem. This unchanged instrumental hymn setting contains no lyrics.",
+      "categorySourceUrl": "https://www.bundesregierung.de/breg-de/schwerpunkte/nationalhymne-deutschland-461412",
+      "companionScore": {
+        "url": "https://www.ccel.org/cceh/0001/000148a.pdf",
+        "sha256": "cf8e089c76b05ac40aff5baaf450ae60e1a86276a8a3f64987bd7fc7bd69e624",
+        "bytes": 28396
+      }
+    },
+    {
+      "id": "away-manger-cceh",
+      "sourceUrl": "https://www.ccel.org/cceh/0000/x000080.htm",
+      "sourcePageSha256": "5a891132a1168605cfb28c04ea8d6ba0a0a71c0a79f410d267c1d06d39598400",
+      "sourcePageRetrievedAt": "2026-09-09T09:10:11+00:00",
+      "downloadUrl": "https://www.ccel.org/cceh/0000/000080a.mid",
+      "sha256": "48c84defd3712726903bed77f0e1edf239579976ba9fd3f89ff00bdd63f7b11f",
+      "bytes": 1715,
+      "embeddedCopyright": [
+        "public domain"
+      ],
+      "notes": 176,
+      "tracks": 3,
+      "sourceEditionReview": "Murray’s tune appeared in Dainty Songs for Little Lads and Lasses (1887). The source names Murray, not the historical misattribution to Luther. Murray lived 1841–1905.",
+      "categorySourceUrl": "https://www.hymnologyarchive.com/away-in-a-manger",
+      "companionScore": {
+        "url": "https://www.ccel.org/cceh/0000/000080a.pdf",
+        "sha256": "c7d7f10ac695ad3b16e78c0b031f04c4ca253b75a741ad1e4558690e02aee5de",
+        "bytes": 20770
+      }
+    }
+  ]
+}

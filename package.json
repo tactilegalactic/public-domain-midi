@@ -1,0 +1,22 @@
+{
+  "name": "@tactilegalactic/public-domain-midi",
+  "version": "1.0.0",
+  "description": "Public Domain and CC0 MIDI editions with per-file provenance and category metadata",
+  "type": "module",
+  "license": "SEE LICENSE IN LICENSE",
+  "repository": { "type": "git", "url": "git+https://github.com/tactilegalactic/public-domain-midi.git" },
+  "engines": { "node": ">=22" },
+  "exports": {
+    "./catalog.json": "./dist/catalog.json",
+    "./provenance.json": "./catalog.json",
+    "./package.json": "./package.json",
+    "./midi/*": "./midi/*",
+    "./evidence/*": "./evidence/*"
+  },
+  "files": ["midi", "catalog.json", "dist/catalog.json", "evidence", "README.md", "PROVENANCE.md", "research.md", "LICENSE", "NOTICE"],
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node --test",
+    "prepack": "npm run build"
+  }
+}

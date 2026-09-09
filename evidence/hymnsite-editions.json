@@ -1,0 +1,70 @@
+{
+  "provider": "HymnSite.com",
+  "reviewedAt": "2026-09-09T09:12:48+00:00",
+  "policyUrl": "https://www.hymnsite.com/faq.htm",
+  "policyPageSha256": "62bc14c408fa1cd55cfeb47e6712e7237759c12c87428c02f6622a6bf5e1c9a3",
+  "policyPageRetrievedAt": "2026-09-09T09:10:09+00:00",
+  "scope": "CARadke identifies the umh MIDI sequences as personally created and allows unrestricted use, redistribution, and resale. The FAQ calls these materials public domain. Separately copyrighted HymnDisk arrangements are excluded.",
+  "editions": [
+    {
+      "id": "glory-glory-hymnsite",
+      "sourceUrl": "https://www.hymnsite.com/lyrics/umh717.sht",
+      "sourcePageSha256": "eaec374c2491eb58e6ab8a3ba713ff72f0439b01fc2834638b2c6ed4dea64e8d",
+      "sourcePageRetrievedAt": "2026-09-09T09:10:13+00:00",
+      "downloadUrl": "https://www.hymnsite.com/midifiles/umh71701.mid",
+      "sha256": "94e8dea029d5ee775c4b744e34acec07d5f579984b589d5af8c2245a545470b4",
+      "bytes": 2966,
+      "embeddedCopyright": [],
+      "notes": 320,
+      "tracks": 6,
+      "sourceEditionReview": "The traditional Battle Hymn melody also serves Georgia’s Glory, Glory. This is CARadke’s hymn sequence, not the university band’s separately arranged performance.",
+      "categorySourceUrl": "https://georgiadogs.com/sports/2017/6/16/traditions",
+      "alsoMatchesArchiveMember": {
+        "downloadUrl": "https://www.hymnsite.com/zipzone/piano.zip",
+        "sha256": "bfc0c5dc578743c47a2e5d83ff7818e6205617bf8014627bb59dcde1347d0657",
+        "bytes": 184814,
+        "memberPath": "umh71701.mid"
+      }
+    },
+    {
+      "id": "british-anthem-hymnsite",
+      "sourceUrl": "https://www.hymnsite.com/lyrics/umh697.sht",
+      "sourcePageSha256": "fffaecf75766cad6b2deaca74e6de7a88603ae0cf215cbd088857ffab8439172",
+      "sourcePageRetrievedAt": "2026-09-09T09:10:13+00:00",
+      "downloadUrl": "https://www.hymnsite.com/midifiles/umh69701.mid",
+      "sha256": "aad39b8d39caea5e7f98db0040353314b10600c08b1f8f57558f08af512e0cfd",
+      "bytes": 1615,
+      "embeddedCopyright": [],
+      "notes": 161,
+      "tracks": 6,
+      "sourceEditionReview": "HymnSite titles the hymn America (My Country, ’Tis of Thee), with music from Thesaurus Musicus. The U.S. Government Publishing Office confirms it uses the British anthem melody. The instrumental MIDI contains no lyrics; America is not labeled the current U.S. national anthem.",
+      "categorySourceUrl": "https://bensguide.gpo.gov/j-america-my-country",
+      "alsoMatchesArchiveMember": {
+        "downloadUrl": "https://www.hymnsite.com/zipzone/piano.zip",
+        "sha256": "bfc0c5dc578743c47a2e5d83ff7818e6205617bf8014627bb59dcde1347d0657",
+        "bytes": 184814,
+        "memberPath": "umh69701.mid"
+      }
+    },
+    {
+      "id": "jesus-loves-me-hymnsite",
+      "sourceUrl": "https://www.hymnsite.com/lyrics/umh191.sht",
+      "sourcePageSha256": "a101cbe18d2dca05884524de335a8be9cefe89bc60914523a8ca3adda876ca8d",
+      "sourcePageRetrievedAt": "2026-09-09T09:10:13+00:00",
+      "downloadUrl": "https://www.hymnsite.com/midifiles/umh19101.mid",
+      "sha256": "8f6dd25eab190a93c3e6cc8ec50f96013d1dfa2d7b2e87f63107f8b411f4c7db",
+      "bytes": 1966,
+      "embeddedCopyright": [],
+      "notes": 196,
+      "tracks": 6,
+      "sourceEditionReview": "The source credits Bradbury’s melody. The downloaded MIDI contains no lyrics; the separately credited modern McGuire verses on the web page are not bundled.",
+      "categorySourceUrl": "https://www.hymnsite.com/lyrics/umh191.sht",
+      "alsoMatchesArchiveMember": {
+        "downloadUrl": "https://www.hymnsite.com/zipzone/piano.zip",
+        "sha256": "bfc0c5dc578743c47a2e5d83ff7818e6205617bf8014627bb59dcde1347d0657",
+        "bytes": 184814,
+        "memberPath": "umh19101.mid"
+      }
+    }
+  ]
+}

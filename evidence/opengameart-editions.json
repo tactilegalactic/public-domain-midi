@@ -1,0 +1,26 @@
+{
+  "provider": "OpenGameArt / TheOuterLinux",
+  "reviewedAt": "2026-09-09T11:17:31+00:00",
+  "editions": [
+    {
+      "id": "mozart-symphony25-i-outerlinux",
+      "sourceUrl": "https://opengameart.org/content/c64-mozart-symphony-no-25-part-1",
+      "sourcePageSha256": "9e905e9d480c89208db7f2e9f15238a0624ae35729c1f454dc5d2c1a853ca7a6",
+      "license": "CC0-1.0",
+      "licenseNotice": "Public Domain (CC0) No Attribution Required",
+      "downloadUrl": "https://opengameart.org/sites/default/files/Mozart%20-%20Symphony%2025%2001.tar.gz",
+      "archive": {
+        "memberPath": "Mozart - Symphony 25 01/Mozart - Symphony No 25 Part 01.mid",
+        "sha256": "d04acda02b0d2390cce144c8a800c9bc2d030a58406123ab0bfa8de63942dbc4",
+        "bytes": 13058217
+      },
+      "midiSha256": "29a121afd87551534a75d0aff0da12b64c4417376f5587127e157d3cc5ad1d30",
+      "companionPdf": {
+        "file": "Mozart - Symphony No 25 Part 01.pdf",
+        "sha256": "dcf0f3e723cb92f984c297a8dba4c2ff7eb726dba2bc9c9de5978ad2dbc543bb",
+        "bytes": 579752
+      },
+      "review": "The first score page identifies seven synth/viola/electric-piano parts. The downloaded MIDI preserves the opening syncopated violin-theme pitches, has 9,639 note attacks across seven populated tracks, and reaches the final section in every track. No third-party modern arrangement notice was found in the companion score."
+    }
+  ]
+}
